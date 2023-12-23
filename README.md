@@ -1,7 +1,7 @@
 # autohotkey
 
 ## Default:
-win+c google search selected text
+win+c google search selected text \
 win+t google translate selected text
 
 ## GlobalSpotify:
