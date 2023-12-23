@@ -1,4 +1,7 @@
-﻿#c::
+;----Google----------------------------------------------------------------------------------------
+
+;----Search--Win+G
+#g::
 {
  Send, ^c
  Sleep 50
@@ -6,6 +9,7 @@
  Return
 }
 
+;----Translate--Win+T
 #t::
 {
  Send, ^c
@@ -13,3 +17,13 @@
  Run, https://translate.google.com/?sl=auto&tl=en&text=%clipboard%
  Return
 }
+
+;----Windows---------------------------------------------------------------------------------------
+
+;----AlwaysOnTop--Win+Shift+T
+#+t::WinSet, AlwaysOnTop, Toggle, A
+return
+
+;----ShareXScreenshot--Win+S
+#s::Send, "+{PrintScreen}"
+return
