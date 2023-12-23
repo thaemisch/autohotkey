@@ -1,6 +1,10 @@
 # autohotkey
 
-### GlobalSpotify:
+## Default:
+win+c google search selected text
+win+t google translate selected text
+
+## GlobalSpotify:
 allows controll over spotify app via keyboard shortcuts
 
 ## TilNorsk:
