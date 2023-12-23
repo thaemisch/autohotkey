@@ -8,4 +8,7 @@ win+t google translate selected text
 allows controll over spotify app via keyboard shortcuts
 
 ## TilNorsk:
-alt/alt+shift + umlaut converts the german "Umlaute" to their Norsk counterparts, Åå Øø Ææ
+alt/alt+shift + umlaut converts the german "Umlaute" to their Norsk counterparts: 
+  - Üü -> Åå
+  - Öö -> Øø
+  - Ää -> Ææ
